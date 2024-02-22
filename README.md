@@ -1,6 +1,7 @@
 # CGeIHC_Lab02
  Repositorio para las prácticas de CGeIHC
 
+## Datos
 Nombre: Chávez Mejía Luis Héctor
 
 N° de cuenta: 318259655
