@@ -11,3 +11,5 @@ Grupo de laboratorio: 02
 Grupo de teoría: 04
 
 Semestre 2024-2
+
+Práctica 04: Modelado Jerárquico
